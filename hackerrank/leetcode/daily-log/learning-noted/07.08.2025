@@ -1,4 +1,0 @@
-**Second Problem Solved:** List Comprehension 
-**Struggled with:** Not knowing `range(x+1)` includes `x` 
-**Fix:** GPT helped understand the need to add +1 in range 
-**Next step:** Practice another problem that uses nested loops
